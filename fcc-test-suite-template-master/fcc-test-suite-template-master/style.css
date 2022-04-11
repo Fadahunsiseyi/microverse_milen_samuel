@@ -1,0 +1,11 @@
+
+
+    @media only screen and (max-width: 1024px){
+        #projects {
+            color: red;
+        }
+    }
+
+    #welcome-section{
+        height: 100vh;
+    }
